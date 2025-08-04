@@ -40,12 +40,22 @@ if existing_headers != expected_headers:
 # Define departments and employees
 employee_groups = {
     "Billing": {"High": ["Tanish"], "Medium": ["Mayank", "Yash"], "Low": ["Leena", "Ketki"]},
-    "Technical Support": {"High": ["Tanish"], "Medium": ["Mayank", "Yash"], "Low": ["Leena", "Ketki"]},
-    "Sales": {"High": ["Tanish"], "Medium": ["Mayank", "Yash"], "Low": ["Leena", "Ketki"]}
+    "Technical Support": {"High": ["Himanshi"], "Medium": ["Kashish", "Siddhi"], "Low": ["Saloni", "Sanika"]},
+    "Sales": {"High": ["Rushikesh"], "Medium": ["Om", "Nishant"], "Low": ["Sahil", "Bharat"]}
 }
 
 employee_emails = {
     "Tanish": "ay19tani@gmail.com",
+    "Himanshi":"ay19tani@gmail.com",
+    "Kashish":"ay19tani@gmail.com",
+    "Siddhi":"ay19tani@gmail.com",
+    "Saloni":"ay19tani@gmail.com",
+    "Sanika":"ay19tani@gmail.com",
+    "Rushikesh":"ay19tani@gmail.com",
+    "Om":"ay19tani@gmail.com",
+    "Nishant":"ay19tani@gmail.com",
+    "Sahil":"ay19tani@gmail.com",
+    "Bharat":"ay19tani@gmail.com",
     "Mayank": "mayank.mhatre22@it.sce.edu.in",
     "Yash": "yash.salunkhe22@it.sce.edu.in",
     "Leena": "leenakatkar60@gmail.com",
