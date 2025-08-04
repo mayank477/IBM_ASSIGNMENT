@@ -1,0 +1,6 @@
+streamlit 
+gspread 
+oauth2client 
+langchain 
+langchain-google-genai 
+google-generativeai
